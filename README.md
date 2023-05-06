@@ -13,7 +13,7 @@ Um data warehouse é uma ferramenta crítica para muitas empresas, pois oferece 
 
 Vantagens e Desvantagens de um Data Warehouse
 
-Vantagens:
+<b>Vantagens:</b>
 
  - Visão integrada e consolidada dos dados: um data warehouse é projetado para armazenar dados de várias fontes em um único local, o que permite aos usuários obter uma visão consolidada e integrada dos dados da empresa.
 
@@ -25,7 +25,7 @@ Vantagens:
 
  - Suporte à estratégia empresarial: o data warehouse pode ajudar as empresas a alinhar sua estratégia empresarial com seus dados e informações, o que pode levar a decisões mais informadas e melhores resultados.
 
-Desvantagens:
+<b>Desvantagens:</b>
 
  - Custo: o custo de implementação e manutenção de um data warehouse pode ser alto, especialmente para empresas de pequeno e médio porte.
 
@@ -40,7 +40,7 @@ Desvantagens:
 
 
  
-Softwares Instalados:
+<h1>Softwares Instalados:</h1>
 
  MySQL
  MySQL Workbench
