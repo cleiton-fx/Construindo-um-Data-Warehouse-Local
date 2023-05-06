@@ -42,7 +42,6 @@ Vantagens e Desvantagens de um Data Warehouse
  
 <h1>Softwares Instalados:</h1>
 
- MySQL<br>
- MySQL Workbench<br>
+  MySQL Workbench<br>
  MySQL Conector<br>
  DbSchema<br>
