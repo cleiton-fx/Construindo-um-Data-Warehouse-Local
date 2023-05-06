@@ -8,3 +8,6 @@ A partir daqui vamos criar nosso modelo.
 
 
 ![dbsch.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/dbsch.jpg)
+
+2. Construção do Modelo Lógico Transacional
+3. 
