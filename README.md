@@ -60,4 +60,4 @@ Vantagens e Desvantagens de um Data Warehouse
 
 
 
-Caso queira saber mais clique aqui 
+Caso queira saber mais clique aqui https://www.oracle.com/br/database/what-is-a-data-warehouse
