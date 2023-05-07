@@ -1,8 +1,9 @@
-<h1>Softwares Instalados:</h1>
+<h1>Softwares Instalados/ Utilizados:</h1>
 
  MySQL Workbench<br>
  MySQL Conector<br>
  DbSchema<br>
+ Mircosoft Power BI<br>
 
 
 
