@@ -22,12 +22,15 @@ Um data warehouse típico geralmente inclui os seguintes elementos:
 
 <h1>Arquitetura de Data Warehouse</h1>
 
-A arquitetura de um data warehouse é determinada pelas necessidades específicas da organização. Arquiteturas comuns incluem
+A arquitetura de um data warehouse é determinada pelas necessidades específicas da organização. Arquiteturas comuns incluem:
 
-Simples. Todos os data warehouses compartilham um design básico no qual metadados, dados de resumo e dados brutos são armazenados no repositório central do warehouse. O repositório é alimentado por fontes de dados em uma extremidade e acessado por usuários finais para análise, relatório e mineração na outra extremidade.
-Simples com uma área de preparo. Os dados operacionais devem ser limpos e processados antes de serem colocados no warehouse. Embora isso possa ser feito de forma programática, muitos data warehouses adicionam uma área de preparo de dados antes que eles entrem no warehouse, para simplificar a preparação dos dados.
-Hub e spoke. A adição de data marts entre o repositório central e os usuários finais permite que uma organização personalize seu data warehouse para atender a várias linhas de negócios. Quando os dados estiverem prontos para uso, eles serão movidos para o data mart apropriado.
-Áreas restritas. As áreas restritas são áreas privadas, seguras e protegidas que permitem às empresas explorar rápida e informalmente novos conjuntos de dados ou formas de analisar dados sem ter que obedecer ou cumprir as regras formais e o protocolo do data warehouse.
+<b>Simples.</b> Todos os data warehouses compartilham um design básico no qual metadados, dados de resumo e dados brutos são armazenados no repositório central do warehouse. O repositório é alimentado por fontes de dados em uma extremidade e acessado por usuários finais para análise, relatório e mineração na outra extremidade.
+<br>
+<b>Simples com uma área de preparo.</b> Os dados operacionais devem ser limpos e processados antes de serem colocados no warehouse. Embora isso possa ser feito de forma programática, muitos data warehouses adicionam uma área de preparo de dados antes que eles entrem no warehouse, para simplificar a preparação dos dados.
+<br>
+<b>Hub e spoke.</b> A adição de data marts entre o repositório central e os usuários finais permite que uma organização personalize seu data warehouse para atender a várias linhas de negócios. Quando os dados estiverem prontos para uso, eles serão movidos para o data mart apropriado.
+<br>
+<b>Áreas restritas.</b> As áreas restritas são áreas privadas, seguras e protegidas que permitem às empresas explorar rápida e informalmente novos conjuntos de dados ou formas de analisar dados sem ter que obedecer ou cumprir as regras formais e o protocolo do data warehouse.<br>
 
 Vantagens e Desvantagens de um Data Warehouse
 
