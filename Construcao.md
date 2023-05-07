@@ -15,6 +15,9 @@ Vamos dar Início com DBSchema para parte de modelagem.
 
 A partir daqui vamos criar nosso modelo.
 
+2. Construção do Modelo Lógico Transacional
+3. 
+
 
 ![dbsch.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/dbsch.jpg)
 
@@ -26,11 +29,25 @@ A partir daqui vamos criar nosso modelo.
 
 ![modelo sf.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/modelo%20sf.jpg)
 
+![modelo F.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/modelo F.jpg)
+
+![MF.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/MF.jpg)
+
+![MF2.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/MF2.jpg)
+
+ETL
+
+![ETL.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/ETL.jpg)
+
+Conectando ao Power BI
+
+![pb.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/pb.jpg)
+
+Criação de um Dashboard apartir do DW
+
+![final.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/final.jpg)
 
 
+<h1>Conclusão</h1>
 
 
-
-
-2. Construção do Modelo Lógico Transacional
-3. 
