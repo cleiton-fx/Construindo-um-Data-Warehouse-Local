@@ -1,5 +1,7 @@
 # Construindo um Data Warehouse passo a passo
 
+![](data-warehousing1.png)
+
 
 <h1>Intrudução</h1>
 
