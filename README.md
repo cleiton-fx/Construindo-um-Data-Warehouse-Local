@@ -6,12 +6,28 @@
 <h1>Intrudução</h1>
 
 
-O data warehouse é um termo que tem sido amplamente utilizado no mundo da tecnologia e negócios. É um repositório de dados que foi projetado para armazenar grandes quantidades de informações em um formato estruturado e acessível. Ele é projetado para suportar análises de negócios e tomada de decisões, fornecendo uma visão integrada e consolidada dos dados da organização.
+<h1>Data Warehouse definido</h1>
 
-O principal objetivo de um data warehouse é fornecer aos usuários acesso rápido e fácil a informações confiáveis e relevantes para fins de análise. É um sistema de gerenciamento de dados voltado para aplicações de suporte à decisão, que auxilia as empresas na tomada de decisões importantes. O data warehouse armazena dados históricos e transacionais de diferentes fontes, incluindo sistemas operacionais, bancos de dados, planilhas, arquivos de texto e outras fontes, permitindo a análise de tendências ao longo do tempo.
+Um data warehouse é um tipo de sistema de gerenciamento de dados projetado para ativar e fornecer suporte às atividades de business intelligence (BI), especialmente a análise avançada. Os data warehouses destinam-se exclusivamente a realizar consultas e análises avançadas e geralmente contêm grandes quantidades de dados históricos. Os dados em um data warehouse geralmente são derivados de uma ampla variedade de fontes, como arquivos de log de aplicativos e aplicativos de transações.
 
-Um data warehouse é uma ferramenta crítica para muitas empresas, pois oferece uma visão holística de seus dados e informações importantes que podem ser usadas para melhorar a tomada de decisões e o desempenho do negócio. Nesta era de informações, onde dados são a chave para o sucesso dos negócios, um data warehouse pode ser um investimento valioso para as empresas que desejam obter insights mais profundos de seus dados.
+Um data warehouse centraliza e consolida grandes quantidades de dados de várias fontes. Seus recursos analíticos permitem que as organizações obtenham informações de negócios úteis de seus dados para melhorar a tomada de decisões. Com o tempo, cria-se um registro histórico que pode ser inestimável para cientistas de dados e analistas de negócios. Devido a esses recursos, um data warehouse pode ser considerado como a “única fonte confiável” de uma organização.
 
+Um data warehouse típico geralmente inclui os seguintes elementos:
+
+ - Um banco de dados relacional para armazenar e gerenciar dados
+ - Uma solução de extração, carregamento e transformação (ELT) para preparar os dados para análise
+ - Análise estatística, relatórios e recursos de mineração de dados
+ - Ferramentas de análise de clientes para visualizar e apresentar dados aos usuários de negócios
+ - Outras aplicações analíticas mais sofisticadas que geram informações acionáveis aplicando ciência de dados e algoritmos de inteligência artificial (IA) ou gráficos e recursos espaciais que permitem mais tipos de análise de dados em escala.
+
+<h1>Arquitetura de Data Warehouse</h1>
+
+A arquitetura de um data warehouse é determinada pelas necessidades específicas da organização. Arquiteturas comuns incluem
+
+Simples. Todos os data warehouses compartilham um design básico no qual metadados, dados de resumo e dados brutos são armazenados no repositório central do warehouse. O repositório é alimentado por fontes de dados em uma extremidade e acessado por usuários finais para análise, relatório e mineração na outra extremidade.
+Simples com uma área de preparo. Os dados operacionais devem ser limpos e processados antes de serem colocados no warehouse. Embora isso possa ser feito de forma programática, muitos data warehouses adicionam uma área de preparo de dados antes que eles entrem no warehouse, para simplificar a preparação dos dados.
+Hub e spoke. A adição de data marts entre o repositório central e os usuários finais permite que uma organização personalize seu data warehouse para atender a várias linhas de negócios. Quando os dados estiverem prontos para uso, eles serão movidos para o data mart apropriado.
+Áreas restritas. As áreas restritas são áreas privadas, seguras e protegidas que permitem às empresas explorar rápida e informalmente novos conjuntos de dados ou formas de analisar dados sem ter que obedecer ou cumprir as regras formais e o protocolo do data warehouse.
 
 Vantagens e Desvantagens de um Data Warehouse
 
@@ -41,9 +57,4 @@ Vantagens e Desvantagens de um Data Warehouse
 
 
 
- 
-<h1>Softwares Instalados:</h1>
-
-  MySQL Workbench<br>
- MySQL Conector<br>
- DbSchema<br>
+Caso queira saber mais clique aqui 
