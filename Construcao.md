@@ -18,5 +18,19 @@ A partir daqui vamos criar nosso modelo.
 
 ![dbsch.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/dbsch.jpg)
 
+![dbsch2.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/dbsch2.jpg)
+
+![MT.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/MT.jpg)
+
+![modelo ss.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/modelo%20ss.jpg)
+
+![modelo sf.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/modelo%20sf.jpg)
+
+
+
+
+
+
+
 2. Construção do Modelo Lógico Transacional
 3. 
