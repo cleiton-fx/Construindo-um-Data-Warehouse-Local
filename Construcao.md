@@ -1,3 +1,11 @@
+<h1>Softwares Instalados:</h1>
+
+ MySQL Workbench<br>
+ MySQL Conector<br>
+ DbSchema<br>
+
+
+
 Construção :
 
 Vamos dar Início com DBSchema para parte de modelagem.
