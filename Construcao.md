@@ -29,7 +29,7 @@ A partir daqui vamos criar nosso modelo.
 
 ![modelo sf.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/modelo%20sf.jpg)
 
-![modelo F.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/modelo F.jpg)
+![modelo%20F.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/modelo%20F.jpg)
 
 ![MF.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/MF.jpg)
 
