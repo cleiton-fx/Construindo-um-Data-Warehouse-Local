@@ -39,6 +39,10 @@ ETL
 
 ![ETL.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/ETL.jpg)
 
+![etl2.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/etl2.jpg)
+
+
+
 Conectando ao Power BI
 
 ![pb.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/pb.jpg)
