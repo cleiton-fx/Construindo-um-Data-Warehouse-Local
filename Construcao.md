@@ -62,6 +62,31 @@ A captura de tela exibe a implementação do floco de neve do Dimensão do produ
 
 [Saiba mais detalhes..](https://www.oracle.com/webfolder/technetwork/tutorials/obe/db/10g/r2/owb/owb10gr2_gs/owb/lesson3/starandsnowflake.htm)
 
+
+5. Criação do modelo Dimensional:
+<br>
+- Criando modelo utilizando DBSchema
+<br>
+- Trazendo apenas dimensões fundamentais
+
+![cb5.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/cb5.jpg)
+
+6. Consolidando Informações em poucas tabelas seguindo regras de negócio
+![cb6.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/cb6.jpg)
+
+7. Tabela Quase pronta, faltando apenas definir Cahves e fazer Relacionamentos.
+![cb7.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/cb7.jpg)
+
+8. Aqui Termina a criação do Modelo Lógico Dimensional contendo todas as características necessárias do funcionamento deste negócio.
+![cb8.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/cb8.jpg)
+
+9.Criação do Modelo Físico apartir do DBSchema
+![cb9.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/cb9.jpg)
+
+10.Carregamento dos dados com Script SQL
+<br>
+- ETL (Extract,  Transform and Load) e Executar nossa Análise.
+
 ![modelo sf.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/modelo%20sf.jpg)
 
 ![modelo%20F.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/modelo%20F.jpg)
