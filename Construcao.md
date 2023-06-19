@@ -91,7 +91,11 @@ OBS: O DBSchema ja faz isso a no decorrer da construção do Diagrama [Aqui](htt
 10.Carregamento dos dados com Script SQL
 <br>
 - ETL (Extract,  Transform and Load) e Executar nossa Análise.
-- Veja o Script que foi Gerado pelo DbSchema 
+- Veja o Script que foi Gerado pelo DbSchema
+<br>
+
+Obs : Nesta Atividade foi usada apenas L (load).
+
 
 ![modelo%20F.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/modelo%20F.jpg)
 
