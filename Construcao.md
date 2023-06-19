@@ -74,7 +74,7 @@ A captura de tela exibe a implementação do floco de neve do Dimensão do produ
 6. Consolidando Informações em poucas tabelas seguindo regras de negócio
 ![cb6.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/cb6.jpg)
 
-7. Tabela Quase pronta, faltando apenas definir Cahves e fazer Relacionamentos.
+7. Tabela Quase pronta, faltando apenas definir Chaves e fazer Relacionamentos.
 ![cb7.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/cb7.jpg)
 
 8. Aqui Termina a criação do Modelo Lógico Dimensional contendo todas as características necessárias do funcionamento deste negócio.
