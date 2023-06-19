@@ -86,11 +86,6 @@ OBS: O DBSchema ja faz isso a no decorrer da construção do Diagrama [Aqui](htt
 <br>
 ![cb9.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/cb9.jpg)
 
-10.Carregamento dos dados com Script SQL
-<br>
-- ETL (Extract,  Transform and Load) e Executar nossa Análise.
-- Veja o Script que foi Gerado pelo DbSchema 
-
 ![modelo sf.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/modelo%20sf.jpg)
 
 ![modelo%20F.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/modelo%20F.jpg)
@@ -99,7 +94,10 @@ OBS: O DBSchema ja faz isso a no decorrer da construção do Diagrama [Aqui](htt
 
 ![MF2.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/MF2.jpg)
 
-ETL
+10.Carregamento dos dados com Script SQL
+<br>
+- ETL (Extract,  Transform and Load) e Executar nossa Análise.
+- Veja o Script que foi Gerado pelo DbSchema 
 
 ![ETL.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/ETL.jpg)
 
