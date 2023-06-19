@@ -110,25 +110,22 @@ Obs : Nesta Atividade foi usada apenas L (load).
 
 ![MF.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/MF.jpg)
 
-12. Verificando dados da TBCliente
 
-![MF2.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/MF2.jpg)
-
-14. Inseridando demais registros
+12. Inseridando demais registros
 
 ![ETL.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/ETL.jpg)
 
-14. Visualizando dados que foram inseridos
+13. Visualizando dados que foram inseridos
 
 ![etl2.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/etl2.jpg)
 
 
 
-Conectando ao Power BI
+14. Conectando ao Power BI
 
 ![pb.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/pb.jpg)
 
-Criação de um Dashboard apartir do DW
+15. Criação de um Dashboard apartir do DW
 
 ![final.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/final.jpg)
 
