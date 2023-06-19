@@ -30,7 +30,7 @@ De Início irei conectando ao Banco e criando cada uma das entidades, veja abaix
 
 ![cb3.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/cb3.jpg)
 
-4. Demonstração do Modelo em Formato PDF após finalização.
+4.Demonstração do Modelo em Formato PDF após finalização.
 <br>
 Com isso concluímos o modelo Transacional.
 <br>
