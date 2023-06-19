@@ -80,12 +80,16 @@ A captura de tela exibe a implementação do floco de neve do Dimensão do produ
 8. Aqui Termina a criação do Modelo Lógico Dimensional contendo todas as características necessárias do funcionamento deste negócio.
 ![cb8.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/cb8.jpg)
 
-9.Criação do Modelo Físico apartir do DBSchema
+9.Criação do Modelo Físico apartir do DBSchema no Modelo Lógico que ja foi criado e implementado no Banco 
+<br>
+OBS: O DBSchema ja faz isso a no decorrer da construção do Diagrama [Aqui](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/ModeloFisico/ModeloFisico/ModeloFisico_v1.sql)
+<br>
 ![cb9.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/cb9.jpg)
 
 10.Carregamento dos dados com Script SQL
 <br>
 - ETL (Extract,  Transform and Load) e Executar nossa Análise.
+- Veja o Script que foi Gerado pelo DbSchema 
 
 ![modelo sf.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/modelo%20sf.jpg)
 
