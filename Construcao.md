@@ -20,7 +20,11 @@ De Início irei conectando ao Banco e criando cada uma das entidades, veja abaix
 
 ![cb1.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/cb1.jpg)
 
+2. Criando cada tabela, definindo cada campo corretamente.
+
 ![cb2.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/cb2.jpg)
+
+3. O resultado após a criação de cada uma das tabelas, definições de chaves estrangeiras, primária e relacionamentos é este .. onde tudo é discutido corretamente para que não haja problemas entre os relacionamentos pois esta parte costuma ser mais sensível.
 
 ![cb3.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/cb3.jpg)
 
