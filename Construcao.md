@@ -35,6 +35,7 @@ De Início irei conectando ao Banco e criando cada uma das entidades, veja abaix
 Com isso concluímos o modelo Transacional.
 <br>
 Agora vamos para o Modelo Dimensional utilizando o Star Schema!
+
 ![cb4.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/cb4.jpg)
 
 
