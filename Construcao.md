@@ -82,22 +82,22 @@ A captura de tela exibe a implementação do floco de neve do Dimensão do produ
 
 9.Criação do Modelo Físico apartir do DBSchema no Modelo Lógico que ja foi criado e implementado no Banco 
 <br>
-OBS: O DBSchema ja faz isso a no decorrer da construção do Diagrama [Aqui](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/ModeloFisico/ModeloFisico/ModeloFisico_v1.sql)
+OBS: O DBSchema ja faz isso a no decorrer da construção do Diagrama [Aqui](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/ModeloFisico/ModeloFisico/ModeloFisico_v2.sql)
 <br>
 ![cb9.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/cb9.jpg)
 
 ![modelo sf.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/modelo%20sf.jpg)
+
+10.Carregamento dos dados com Script SQL
+<br>
+- ETL (Extract,  Transform and Load) e Executar nossa Análise.
+- Veja o Script que foi Gerado pelo DbSchema 
 
 ![modelo%20F.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/modelo%20F.jpg)
 
 ![MF.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/MF.jpg)
 
 ![MF2.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/MF2.jpg)
-
-10.Carregamento dos dados com Script SQL
-<br>
-- ETL (Extract,  Transform and Load) e Executar nossa Análise.
-- Veja o Script que foi Gerado pelo DbSchema 
 
 ![ETL.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/ETL.jpg)
 
