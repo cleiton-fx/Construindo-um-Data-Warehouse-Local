@@ -99,11 +99,19 @@ Obs : Nesta Atividade foi usada apenas L (load).
 
 ![modelo%20F.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/modelo%20F.jpg)
 
+11. Confirmando que a Tabela esta vazia
+
 ![MF.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/MF.jpg)
+
+12. Verificando dados da TBCliente
 
 ![MF2.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/MF2.jpg)
 
+14. Inseridando demais registros
+
 ![ETL.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/ETL.jpg)
+
+14. Visualizando dados que foram inseridos
 
 ![etl2.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/etl2.jpg)
 
