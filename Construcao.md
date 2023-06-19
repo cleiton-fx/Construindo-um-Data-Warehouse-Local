@@ -1,22 +1,21 @@
 <h1>Softwares Instalados/ Utilizados:</h1>
 
- MySQL Workbench<br>
- MySQL Conector<br>
- DbSchema<br>
- Mircosoft Power BI<br>
+ - MySQL Workbench<br>
+ - MySQL Conector<br>
+ - DbSchema<br>
+ - Microsoft Power BI<br>
 
 
 
 Construção :
 
-Vamos dar Início com DBSchema para parte de modelagem.
+Vamos dar Início com DBSchema para parte de modelagem de forma bem resumida
 
-1. Conectando ao Banco.
-
-A partir daqui vamos criar nosso modelo.
-
-2. Construção do Modelo Lógico Transacional
-3. 
+1.<b>Construção do Modelo Lógico Transacional</b>
+<br>
+A criação do modelo será com base nos dados fornecidos, interpretando os dados requeridos iremos dar início a parte lógica.
+De Início irei conectando ao Banco e criando cada uma das entidades, veja abaixo a conectando o DBschema ao Banco e dando início a Criação de cada tabela.
+ 
 
 
 ![cb1.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/cb1.jpg)
