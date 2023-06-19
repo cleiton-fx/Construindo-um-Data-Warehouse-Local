@@ -128,4 +128,10 @@ OBS: O DBSchema ja faz isso a no decorrer da construção do Diagrama [Aqui](htt
 
 <h1>Conclusão</h1>
 
+Uma construção de um DW não é algo simples e rápido, isso inclui conhecimentos das ferramentas, negócio, regras de negócio, definição de chaves, conhecimento de banco de dados, mas não é nada assim tão assustador, porém, desafiador.
+A idéia aqui foi demostrar um pouco do meu conhecimento na prática passando por todo processo de modelagem, iniciando do mais básico até a entrega do Relatório do Dashboard extraindo dados de um DW.
+
+
+[Projeto em Andamento]..
+
 
