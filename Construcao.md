@@ -21,6 +21,7 @@ De Início irei conectando ao Banco e criando cada uma das entidades, veja abaix
 ![cb1.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/cb1.jpg)
 
 2. Criando cada tabela, definindo cada campo corretamente.
+   Note também que foi inserido um ID para cada um deles, determinando assim como chave primária.
 
 ![cb2.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/cb2.jpg)
 
