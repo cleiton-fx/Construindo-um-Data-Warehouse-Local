@@ -25,7 +25,9 @@ A partir daqui vamos criar nosso modelo.
 
 ![cb3.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/cb3.jpg)
 
-![MT.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/MT.jpg)
+4. Demonstração do Modelo em Formato PDF após finalização.
+![cb4.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/cb4.jpg)
+
 
 ![modelo ss.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/modelo%20ss.jpg)
 
