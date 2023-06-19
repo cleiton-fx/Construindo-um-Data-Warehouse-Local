@@ -19,9 +19,11 @@ A partir daqui vamos criar nosso modelo.
 3. 
 
 
-![dbsch.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/dbsch.jpg)
+![cb1.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/cb1.jpg)
 
-![dbsch2.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/dbsch2.jpg)
+![cb2.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/cb2.jpg)
+
+![cb3.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/cb3.jpg)
 
 ![MT.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/MT.jpg)
 
