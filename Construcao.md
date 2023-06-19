@@ -61,6 +61,9 @@ O esquema do floco de neve representa um modelo dimensional que é também compo
 A captura de tela exibe a implementação do floco de neve do Dimensão do produto. Cada nível na dimensão é mapeado para uma tabela diferente.
 
 [Saiba mais detalhes..](https://www.oracle.com/webfolder/technetwork/tutorials/obe/db/10g/r2/owb/owb10gr2_gs/owb/lesson3/starandsnowflake.htm)
+<br>
+
+![modelo sf.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/modelo%20sf.jpg)
 
 
 5. Criação do modelo Dimensional:
@@ -90,7 +93,7 @@ OBS: O DBSchema ja faz isso a no decorrer da construção do Diagrama [Aqui](htt
 
 ![cb9.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/cb9.jpg)
 
-![modelo sf.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/modelo%20sf.jpg)
+
 
 10.Carregamento dos dados com Script SQL
 <br>
