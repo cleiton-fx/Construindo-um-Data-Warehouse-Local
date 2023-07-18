@@ -11,7 +11,7 @@ Construção :
 
 Vamos dar Início com DBSchema para parte de modelagem de forma bem resumida
 
-1.<b>Construção do Modelo Lógico Transacional</b>
+1.  <b>Construção do Modelo Lógico Transacional</b>
 <br>
 
 A criação do modelo será com base nos dados fornecidos, interpretando os dados requeridos iremos dar início a parte lógica.
