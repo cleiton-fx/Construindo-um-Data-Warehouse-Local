@@ -13,6 +13,7 @@ Vamos dar Início com DBSchema para parte de modelagem de forma bem resumida
 
 1.<b>Construção do Modelo Lógico Transacional</b>
 <br>
+
 A criação do modelo será com base nos dados fornecidos, interpretando os dados requeridos iremos dar início a parte lógica.
 De Início irei conectando ao Banco e criando cada uma das entidades, veja abaixo a conectando o DBschema ao Banco e dando início a Criação de cada tabela.
  
@@ -30,7 +31,7 @@ De Início irei conectando ao Banco e criando cada uma das entidades, veja abaix
 
 ![cb3.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/cb3.jpg)
 
-4.Demonstração do Modelo em Formato PDF após finalização.
+4. Demonstração do Modelo em Formato PDF após finalização.
 <br>
 Com isso concluímos o modelo Transacional.
 <br>
@@ -83,7 +84,7 @@ A captura de tela exibe a implementação do floco de neve do Dimensão do produ
 8. Aqui Termina a criação do Modelo Lógico Dimensional contendo todas as características necessárias do funcionamento deste negócio.
 ![cb8.jpg](https://github.com/cleiton-fx/Construindo-um-Data-Warehouse-/blob/master/imagens/cb8.jpg)
 
-9.Criação do Modelo Físico apartir do DBSchema no Modelo Lógico que ja foi criado e implementado no Banco.
+9. Criação do Modelo Físico apartir do DBSchema no Modelo Lógico que ja foi criado e implementado no Banco.
 
 <br>
 
